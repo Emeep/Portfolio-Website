@@ -37,9 +37,10 @@ nav {
     background-size: cover;
     
     display: flex;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center; */
+    /* align-items: center; */
     min-height: 90%;
+    min-width: 100%;
 }
 
 .imgcont{
